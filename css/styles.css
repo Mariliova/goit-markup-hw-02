@@ -200,7 +200,7 @@ body {
 /* Team */
 
 .team {
-    background-color: var(--color-bg-secondary);
+  background-color: var(--color-bg-secondary);
 }
 
 .team .list {
@@ -221,16 +221,15 @@ body {
 /* Portfolio */
 
 .portfolio .title {
-font-size: 18px;
-line-height: 2;
-letter-spacing: 0.06em;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .portfolio .text {
-font-size: 16px;
-line-height: 1ю88;
-letter-spacing: 0.03em;
+  font-size: 16px;
+  line-height: 1ю88;
+  letter-spacing: 0.03em;
 
-color: var(--color-secondary);
-
+  color: var(--color-secondary);
 }
