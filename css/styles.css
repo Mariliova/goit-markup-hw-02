@@ -163,6 +163,15 @@ body {
   color: var(--color-whitish);
 }
 
+.address-link:hover,
+.address-link:focus,
+.phone-link:hover,
+.phone-link:focus,
+.email-link:hover,
+.email-link:focus {
+  color: var(--color-accent);
+}
+
 /* Hero */
 
 .hero {
