@@ -30,6 +30,7 @@ body {
 .btn {
   cursor: pointer;
   font-size: 16px;
+  font-family: inherit;
 }
 
 .hero-btn {
@@ -213,17 +214,19 @@ body {
 }
 
 .team .list {
-  font-size: 16px;
   line-height: 1.19;
-  text-align: center;
   letter-spacing: 0.03em;
 }
 
 .team .title {
   font-weight: 500;
+  font-size: 16px;
+  text-align: center;
 }
 
 .team .text {
+  text-align: center;
+
   color: var(--color-secondary);
 }
 
@@ -236,8 +239,7 @@ body {
 }
 
 .portfolio .text {
-  font-size: 16px;
-  line-height: 1ю88;
+  line-height: 1.88;
   letter-spacing: 0.03em;
 
   color: var(--color-secondary);
